@@ -1,8 +1,8 @@
 .team {
     &__content {
         display: flex;
-        justify-content: space-between;
-    
+        justify-content: space-around;
+        margin: 0;
     }
     &__box {
         margin-left: 200px;
